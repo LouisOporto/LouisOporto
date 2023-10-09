@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm @LouisOporto
+
+Currently @ CSUF learning about software development
+
+
 <!--
 **LouisOporto/LouisOporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
